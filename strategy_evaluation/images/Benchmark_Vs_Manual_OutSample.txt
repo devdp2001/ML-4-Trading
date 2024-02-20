@@ -1,6 +1,0 @@
-Benchmark CR = -0.083579
-Benchmark Stdev = 0.0085
-Benchmark Mean = -0.000137
-Manual CR = 0.171382
-Manual Stdev = 0.007487
-Manual Mean = 0.000342
